@@ -1,17 +1,78 @@
 <h1 align="center">Hi 👋, I'm Abir Hussain Khan</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-
+     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/abir2450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abir2450" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abir2450/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abir2450/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abir_2450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abir_2450" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abir2450/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abir2450/" height="30" width="40" /></a>
+<a href="https://codepen.io/abir2450" target="blank"><img align="center" src="https://camo.githubusercontent.com/14a3b82951a8bfe8bbb1e1619e9283e5ed9375b1721eea15fff5dea1e76448b5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436f646550656e26636f6c6f723d303030303030266c6f676f3d436f646550656e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="abir2450"  style="max-width: 100%;" /></a>
+<a href="https://linkedin.com/in/abir2450" target="blank"><img align="center" src="https://camo.githubusercontent.com/809cb2f93f77ea9fd67dc4f035441213341b65538fcf28ecb62a24340910a59a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6761627269656c627573736f6c6f" alt="abir2450"  style="max-width: 100%;" /></a>
+<a href="https://codesandbox.com/abir2450" target="blank"><img align="center" src="https://camo.githubusercontent.com/6705f9a0f7249b1daac622690b7cd4dd6b7d5a4d6988fd9e258fce2284f5df54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646573616e64626f782d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f646553616e64626f78266c6f676f436f6c6f723d7768697465" alt="abir2450"  style="max-width: 100%;" /></a>
+<a href="https://www.hackerrank.com/abir_2450" target="blank"><img align="center" src="https://camo.githubusercontent.com/cea1061d6aa3a1459b3581d22b03afad75167ed5d6ea582403de4a51bd1e99bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b2d3130374331303f7374796c653d666c61742d737175617265266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d626c61636b" alt="abir_2450"  style="max-width: 100%;" /></a>
+<a href="https://www.leetcode.com/abir2450" target="blank"><img align="center" src="https://camo.githubusercontent.com/9009e098c2603c3e657e7f1754da9a88ba7ca17cbbc95abbac4257b26ec6ff8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b" alt="abir2450"  style="max-width: 100%;"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e"><img src="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074"><img src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8ec8e5e395a3611721a2aade4691403ccdd1ffcd6e5e1e0446281984339be921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943"><img src="https://camo.githubusercontent.com/8ec8e5e395a3611721a2aade4691403ccdd1ffcd6e5e1e0446281984339be921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303f266c6f676f3d63253262253262266c6f676f436f6c6f723d303035393943" alt="C++" data-canonical-src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0e2611d64293f3676d77ce51169403831b38612be97ade095abebd1350c1b12a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074"><img src="https://camo.githubusercontent.com/0e2611d64293f3676d77ce51169403831b38612be97ade095abebd1350c1b12a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript" style="max-width: 100%;"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirhussain&show_icons=true&locale=en&layout=compact" alt="abirhussain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirhussain&show_icons=true&locale=en" alt="abirhussain" /></p>
+
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+     <img src="https://camo.githubusercontent.com/242b60b5f0965848e51f4e3f745e79310a8ca8b43250f4171baf40c5afb88773/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3134316132303f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML"  style="max-width: 100%;"/>
+     <img src="https://camo.githubusercontent.com/3349b0e09014099fd097489ae4ff8aae10eebed594c50d2162bbd28443e6e0e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3134316132303f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS3"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/d8971eb578649b5861b3b3694bc2684ff4bf5bb346042b20f8f6e26010dce374/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="React"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/d2c172720c37c372824fc34cfca7fa21abf73f40924372bb03861c7313a2e653/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d7265647578" alt="Redux"  style="max-width: 100%;"/>
+
+  </p>
+  
+  
+  
+  
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <img src="https://camo.githubusercontent.com/d423a12bb3104123302b72414d54284205bdf66381d64716a6d6891d5fcb0261/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73" alt="nodejs"  style="max-width: 100%;"/>
+  
+ <img src="https://camo.githubusercontent.com/992ae98041eb241d2d8e23888e20254e1fa7e188f3beea89852d9918270a9c20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="express"  style="max-width: 100%;"/>
+ 
+   <img src="https://camo.githubusercontent.com/7f8b6716845b5d9cd69f8ce04e587bb955f45040549f33cbd5e9baf464ae5e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" alt="nestjs"  style="max-width: 100%;"/>
+  </p>
+  
+  <h3 align="left">Database:</h3>
+  <p align="left">
+  
+   <img src="https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462" alt="mongodb"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="Mysql"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/1debbe1fcbc44e1f5e8b5f64a506865eecb4e92e7efe84d0cc7fc6dca80faf77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f7261636c652d77686974653f7374796c653d737175617265266c6f676f436f6c6f723d726564266c6f676f3d6f7261636c65" alt="Oracle"  style="max-width: 100%;"/>
+  </p>
+<h3 align="left">Framework:</h3>
+  <p align="left">
+       <img src="https://camo.githubusercontent.com/382475fe91b63647628c83403f0a2b8f3bd056622d5d743537bbb3a7212ab0da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3030303030303f7374796c653d666c6174266c6f676f3d446a616e676f" alt="Django"  style="max-width: 100%;"/>
+    </p>
+    
+    
+    
+  <h3 align="left">Testing:</h3>
+  <p align="left">
+   <img src="https://camo.githubusercontent.com/d455e71b48ad3315cc433f9d12e87928e39b2ca98ca7a8a8a26225155060e90f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666c61742d737175617265266c6f676f3d4a657374266c6f676f436f6c6f723d7768697465" alt="Jestjs"  style="max-width: 100%;"/>
+  
+  </p>
+  
+  <h3 align="left">Other:</h3>
+  <p align="left">
+ <img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="git"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="github"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/118db644beb6a0a51235005c7050e02759203dd52f820f1c3483e2928edcc01e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75" alt="heruko"  style="max-width: 100%;"/>
+   <img src="https://camo.githubusercontent.com/cf47f22e684a7deb3fe00783eec8e7407be43a25da81cdecc270d6ffc5bd38e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e" alt="postman"  style="max-width: 100%;"/>
+</P>
+
+## My GitHub Stats 📊
+<a href="https://github.com/abirhussain/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abirhussain&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/abirhussain/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhussain&show_icons=true&theme=radical" />
+</a>
+
