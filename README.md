@@ -70,10 +70,11 @@
 </P>
 
 ## My GitHub Stats 📊
+<a href="https://github.com/abirhussain/abirhussain">
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abirhussain&count_private=true&show_icons=true&theme=radical" />
+     </a>
 
-
+<a href="https://github.com/abirhussain/abirhussain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhussain&show_icons=true&theme=radical" />
-
-
+</a>
